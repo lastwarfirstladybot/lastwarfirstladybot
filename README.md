@@ -10,7 +10,7 @@ This repository contains the following files:
 2. **First Lady Automation Without Conquerors Buff.json**  
    - These files are BlueStacks macros that can be imported directly using the BlueStacks Macro Manager.
 3. **FirstLadyAutomation.py**  
-   - A Python script that performs the same functions as the macros with the added benifit of dismissing player roles after a set threshold.
+   - A Python script that performs the same functions as the macros with the added benefit of dismissing player roles after a set threshold.
 
 ---
 
