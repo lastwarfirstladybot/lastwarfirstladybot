@@ -25,7 +25,7 @@ This repository contains the following files:
 ---
 ## Python Script Setup
 
-The Python script provides the same functionality of the BlueStacks macros with the added benifit of dismissing players after they have been in a role for 6+ minutes. However, setting up the script requires configuring **screen coordinates** to match your specific system. Below are methods to streamline the process of finding these coordinates.
+The Python script provides the same functionality of the BlueStacks macros with the added benefit of dismissing players after they have been in a role for 6+ minutes. However, setting up the script requires configuring **screen coordinates** to match your specific system. Below are methods to streamline the process of finding these coordinates.
 <br>*Note*: This script is not dependent on BlueStacks software.
 
 ---
